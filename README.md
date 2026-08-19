@@ -1,4 +1,6 @@
 # 🏢 HR Analytics: Strategic Employee Attrition Dashboard
+<img width="1323" height="735" alt="image" src="https://github.com/user-attachments/assets/dc493436-290d-4e7a-8f3a-284017820279" />
+
 
 An end-to-end Business Intelligence project that transforms raw workforce data into actionable human resources insights. This interactive **Power BI Dashboard** identifies the hidden patterns behind employee turnover, empowering leadership to transition from reactive hiring to proactive talent retention.
 
